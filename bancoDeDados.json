@@ -30,5 +30,39 @@
             "Branco": ["7","8"]
         }
     }
+  },
+  , 
+
+  {
+    "nome": "Vestido Elegante Costa Nua cor solida Preto Sexy",
+    "imagens": 
+    ["https://img.ltwebstatic.com/v4/p/spmp/2025/09/24/77/175867520375e98c4a3c86a8b8eab43221a81d758a_thumbnail_900x.webp",
+     "https://img.ltwebstatic.com/v4/j/spmp/2025/09/24/d9/1758675194f2f6537d9f4d72b5e3bf38d80fe7cbb8_thumbnail_900x.webp", 
+     "https://img.ltwebstatic.com/v4/j/spmp/2025/09/24/f4/1758675242b4f4f2048a41abc8cba665e6404d8197_thumbnail_900x.webp",
+     "https://img.ltwebstatic.com/v4/j/spmp/2025/09/24/f4/1758675242b4f4f2048a41abc8cba665e6404d8197_thumbnail_900x.webp",
+     "https://img.ltwebstatic.com/v4/j/spmp/2025/09/24/76/175867531572f3d01cc734e0dde94086242cf45e74_thumbnail_900x.webp",
+     "https://img.ltwebstatic.com/v4/p/spmp/2025/09/24/a1/1758675688610864c24d42c114099cbd870a5c9028_thumbnail_900x.webp",
+     "https://img.ltwebstatic.com/v4/p/spmp/2025/09/27/15/1758910339a63de6e77c86e8c906cfd0fad724d7c2_thumbnail_900x.webp",
+     "https://img.ltwebstatic.com/v4/j/spmp/2026/02/05/5d/1770230179934df6e5d01612959d0ac853f1ef7d93_thumbnail_900x.webp",
+     "https://img.ltwebstatic.com/v4/p/spmp/2026/02/05/3d/17702301474e8fdc57afc1db130a5db6af3a262505_thumbnail_900x.webp"
+     ],
+    "descricao": "Busto: 37 cm | Tamanho da Cintura: 26 cm | Tamanho do quadril: 38 cm | Comprimento: 120 cm",
+    "preco": "64,00",
+    "link": "https://onelink.shein.com/33/5jova883e144",
+    "tipo": "roupa",
+    "especificacoes": {
+      "cores": ["Preto", "Chocolate", "Cinza", "Vermelho", "Branco"],
+      "tamanhos": ["Tamanho Único"],
+      "tags": ["mulher","verão","Vestido", "Vestido"]
+    },
+    "relacao" : {
+        "cores-imagens": {
+            "Preto": ["0","1"],
+            "Chocolate": ["2","3"] , 
+            "Cinza": ["4","5"], 
+            "Vermelho": ["6"], 
+            "Branco": ["7","8"]
+        }
+    }
   }
 ]
